@@ -1,10 +1,10 @@
 {
-  "name": "iso-3166-country-codes-angular",
-  "version": "1.2.3",
+  "name": "iso-3166-alpha-3-country-codes-angular",
+  "version": "1.0.0",
   "description": "An AngularJS module to work with Country Codes",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rsertelon/iso-3166-country-codes-angular.git"
+    "url": "https://github.com/Shaddox/iso-3166-country-codes-angular.git"
   },
   "main": "index.js",
   "keywords": [
