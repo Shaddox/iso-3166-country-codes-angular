@@ -253,7 +253,7 @@ angular.module('iso-3166-country-codes', [])
       'YEM': 'Yemen',
       'ZMB': 'Zambia',
       'ZWE': 'Zimbabwe',
-      'ALA': 'Åland Islands'
+      'ALA': 'Aland Islands'
     };
 
 
